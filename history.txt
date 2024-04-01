@@ -1,0 +1,6 @@
+x
+sinx
+cosx
+tanx
+x^2
+x*sinx
